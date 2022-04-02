@@ -1,11 +1,9 @@
 - 👋 Hi, I’m @nassermadi
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- i am a front end developer 
-- i am studing medecine in the med school setif in algeria 
-- and i hope to follow me in linked in and my githun profile
+- 👀 I’m interested in cyber security and programming
+- 🌱 I’m currently learning medecine
+- 💞️ I’m looking to get an offer from us company to work there   
+- 📫 How to reach me ??? you can find me on linkedin or tweeter 
+- i am a front end developer and MERN stack developer  
 - wish you the best and have a nice day 
 <!---
 nassermadi/nassermadi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
